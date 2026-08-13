@@ -1,0 +1,536 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* TOP BAR */
+
+.fast-bar {
+    width: 100%;
+    height: 5%;
+    background-color: #102451;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    ul {
+        display: flex;
+        padding: 150px;
+        gap: 20px;
+    }
+
+    li {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+    }
+
+    p {
+        color: white;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 1.5;
+        letter-spacing: 0px;
+        text-transform: uppercase;
+    }
+
+    img {
+        width: 20px;
+        height: 20px;
+    }
+
+
+}
+
+
+/* <SECOND TOP BAR */
+
+
+.secondtopbar {
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .Rehub {
+        display: flex;
+        gap: 40px;
+
+    }
+
+    .Find {
+        color: #205081;
+        size: 14px;
+        line-height: 150%;
+        letter-spacing: 10%;
+        gap: 18px;
+
+    }
+
+    .number {
+        width: 140px;
+        height: 20px;
+        border: solid #D45352;
+        border-radius: 2%;
+        padding: 12px 30px 12px 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #D45352;
+    }
+
+
+}
+
+.Banner {
+    width: 100%;
+    height: 950px;
+    background-image: url(./image/image\ 48.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+    .letter {
+        font-weight: 700;
+        font-size: 48px;
+    }
+
+    .letters {
+        font-weight: 500;
+        font-size: 28px;
+    }
+
+
+}
+
+.banner_content {
+    width: 1920px;
+    height: 184px;
+    text-align: center;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+
+
+}
+
+.search-box {
+
+    width: 880px;
+    height: 90px;
+    background: #FFFFFF;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    margin: 60px;
+
+}
+
+.one {
+    /* padding-bottom: 50px; */
+    /* width: 30px;
+    height: 3px; */
+    size: -9px;
+
+    color: black;
+
+}
+
+.two {
+    padding-top: 30px;
+    width: 602px;
+    height: 24px;
+    size: 16px;
+
+
+}
+
+.three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 35px 60px 29px 60px;
+    gap: 20px;
+    background: #D45352;
+    color: #FFFFFF;
+}
+
+p {
+    size: 18px;
+    line-height: 130%;
+    font-size: medium;
+}
+
+/* featured center */
+.featur_content {
+    width: 100%;
+    height: 910px;
+    background-color: #F4F6F8;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Rehab {
+    padding-top: 70px;
+    /* margin-bottom: 30px; */
+    color: #205081;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.Centers {
+
+    width: 80;
+    height: 60px;
+    /* background-color: #D45352; */
+    text-align: center;
+    padding-top: 10px;
+    color: #000;
+    /* margin: 30px; */
+
+
+}
+
+.card_row {
+    width: 1516px;
+    height: 440px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    position: relative;
+    margin: 0 auto;
+    /* background-color: #D45352; */
+}
+
+.first_card {
+
+    width: 356.5px;
+    height: 440px;
+    border-radius: 5px;
+    /* border: 2px solid red; */
+    position: relative;
+
+    background-color: #FFFFFF;
+    overflow: hidden;
+
+}
+
+.feature {
+    /* display: inline-block; */
+    /* position: absolute;
+    top: 12px;
+    left: 0; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    background-color: #D46A5F;
+    color: #FFFFFF;
+
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+
+    letter-spacing: 3px;
+    /* 28% */
+
+    text-transform: uppercase;
+
+    padding: 0px 8px;
+
+    width: 98px;
+    height: 28px;
+
+    box-sizing: border-box;
+    margin-top: 15px;
+    margin-left: 5px;
+    /* text-transform: uppercase; */
+
+}
+
+.anchorage {
+    position: absolute;
+
+    left: 50px;
+    /* background-color: #F4F6F8; */
+
+}
+
+.anchorage img {
+    width: 250px;
+    height: auto;
+    display: block;
+}
+
+/* hr{
+    position: absolute;
+    top: px;
+} */
+.star {
+    position: absolute;
+    top: 275px;
+    left: 35px;
+}
+
+.star ul {
+    display: flex;
+    list-style: none;
+    gap: 4px;
+    padding: 0;
+    margin: 0;
+}
+
+.star img {
+    width: 16px;
+    height: 16px;
+}
+
+.center_title {
+    position: absolute;
+    top: 302px;
+    left: 36px;
+
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+
+    line-height: 130%;
+    color: #232323;
+
+    width: 300px;
+}
+
+.location img {
+    position: absolute;
+    top: 360px;
+    left: 30px;
+}
+
+.name {
+    position: absolute;
+    top: 360px;
+    left: 59px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 150%;
+    color: #6B778C;
+}
+
+.line {
+    position: absolute;
+    top: 375px;
+    color: #EBEBEB;
+    left: 25px;
+}
+
+.view_center {
+    width: 308px;
+    height: 18px;
+
+    position: absolute;
+    top: 400px;
+    left: 25px;
+
+    color: #205081;
+    font-family: "Montserrat", sans-serif;
+    font-size: 8px;
+    font-weight: 600;
+
+    line-height: 150%;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.arrow img {
+    position: absolute;
+    top: 401.5px;
+    left: 190px;
+
+    width: 20px;
+    height: auto;
+}
+
+hr {
+    margin-top: 216px;
+    border: none;
+    border-top: 1px solid #E5E5E5;
+}
+
+
+
+
+/* /* fourth_card * */
+.new_port {
+    display: flex;
+    position: relative;
+}
+
+.new_port img {
+    width: 161px;
+    height: 161px;
+    position: absolute;
+    left: 73px;
+}
+
+.find_rehub {
+    width: 248px;
+    height: 61px;
+
+    border-radius: 5px;
+
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    border: 1px solid red;
+}
+
+.find_rehub p {
+    text-align: center;
+    margin: auto;
+    color: #D45352;
+    width: 148px;
+    height: 21px;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    /* letter-spacing: 14%; */
+    line-height: 130%;
+    font-weight: 700;
+}
+
+.about_us {
+    width: 100%;
+    height: 900px;
+    color: #E2E9F0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E2E9F0;
+}
+.text_about{
+    margin-top: 50px;
+}
+.text_about p {
+    color: #205081;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 8px;
+    position: static;
+
+}
+
+.state_drug {
+     margin-top: 15px;
+    position: static;
+}
+
+.state_drug p{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    color: #232323;
+}
+
+
+.addiction_drug {
+   width: 1027px;
+   margin-top: 35px;
+
+}
+
+.addiction_drug p {
+    width: 100%;
+    position: static;
+    text-align: center;
+    font-size: 18px;
+    line-height: 180%;
+    color: #858585;
+    
+}
+
+span {
+    font-weight:700;
+}
+
+.drug_line{
+    margin-top: 80px;
+}
+
+.drug_line img{
+    position: static;
+}
+
+.drug_line img {
+    position: absolute;
+
+    top: 148px;
+    left: 710px;
+}
+
+.read_more {
+    width:222px;
+    height:61px;
+    border:1px solid #D45352;
+    border-radius:5px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:50px;
+    position: static;
+}
+
+.read_more p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: auto;
+    color: #D45352;
+
+}
+
+.house_picture{
+    width:100%;
+    position: static;
+}
+
+.house_picture img{
+    width:100%;
+    /* display:block; */
+    
+}
