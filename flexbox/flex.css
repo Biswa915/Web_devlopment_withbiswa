@@ -1,16 +1,18 @@
-.container{
+.container {
     margin: 0px;
     padding: 0px;
 }
-.box{
+
+.box {
     height: 100px;
     width: 100px;
 }
 
-    .first{
-        background-color: red;
-    }
- .second{
+.first {
+    background-color: red;
+}
+
+.second {
     background-color: blue;
 
- }
+}
