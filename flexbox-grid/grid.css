@@ -3,6 +3,8 @@
     margin: 0px;
 }
 body{
-    display: flex;
-    
+    background-color: bisque;
+    display: grid;
+    grid-template-rows: auto;
+
 }
