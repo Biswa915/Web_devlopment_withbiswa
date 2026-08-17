@@ -17,6 +17,7 @@ body{
 }
 .first{
     background-color: aqua;
+    border-radius: 2;
 }
 .second{
     background-color: red;
