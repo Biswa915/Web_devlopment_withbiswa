@@ -7,16 +7,18 @@ body{
     
 }
 .container{
-    height: 200px;
-    width: 100px;
+    height: 400px;
+    width: 400px;
     padding: 5px;
     display: grid;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
+    background-color: aqua;
     gap: 5px;
 }
 .first{
-    background-color: aqua;
+
+    background-color: rgb(189, 28, 154);
     border-radius: 2;
 }
 .second{
