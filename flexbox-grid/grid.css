@@ -7,5 +7,23 @@ body{
     
 }
 .container{
-    
+    height: 200px;
+    width: 100px;
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: 100px 100px;
+    gap: 5px;
+}
+.first{
+    background-color: aqua;
+}
+.second{
+    background-color: red;
+}
+.third{
+    background-color: greenyellow;
+}
+.fourth{
+    background-color: blueviolet;
 }
