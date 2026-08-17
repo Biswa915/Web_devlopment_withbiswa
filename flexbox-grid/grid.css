@@ -21,6 +21,7 @@ body{
 }
 .second{
     background-color: red;
+    border-radius: 2;
 }
 .third{
     background-color: greenyellow;
