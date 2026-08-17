@@ -25,6 +25,7 @@ body{
 }
 .third{
     background-color: greenyellow;
+    border-radius: 2;
 }
 .fourth{
     background-color: blueviolet;
