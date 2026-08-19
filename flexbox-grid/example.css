@@ -9,15 +9,20 @@ body{
 }
 .container{
     width: 800px;
-    height: 800px;
+    height: 600px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
-    grid-template-rows:1fr 2fr 3fr 1fr;
-    gap: 10px;
+    grid-template-rows:1fr 2fr 2fr 1fr;
+    gap: 20px;
     padding: 5px;
+    /* background-color: rgb(86, 190, 176); */
 
 }
 .header{
-    grid-auto-rows: 1fr;
+    grid-column-start: 1fr;
+    grid-column-end: 4fr;
     background-color: white;
+}
+.sidebar{
+
 }
