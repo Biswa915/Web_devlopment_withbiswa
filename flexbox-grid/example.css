@@ -22,11 +22,11 @@ body{
     background-color: aqua;
 }
 .header{
-    grid-column-start: 1fr;
-    grid-column-end: 4fr;
-    background-color: white;
+    grid-column-start: 1;
+    grid-column-end: 4;
 }
 .sidebar{
- background-color: rgb(173, 106, 11);
- grid-column-start: ;
+ grid-row-start: 2;
+ grid-row-end: 3;
 }
+
