@@ -7,8 +7,8 @@ body{
     background-color: black;
 }
 .container{
-    width: 800px;
-    height: 800px;
+    width: 700px;
+    height: 700px;
     display: grid;
     grid-template-columns: repeat(8,1fr);
     grid-template-rows: repeat(8,1fr);
