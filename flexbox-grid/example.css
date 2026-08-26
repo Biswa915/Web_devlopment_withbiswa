@@ -49,4 +49,6 @@
     margin: 20px;
     padding: 50px;
     border-radius: 10px;
+    border:10px  solid green;
+    font-weight: 10px;
 }
