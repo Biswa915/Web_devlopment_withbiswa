@@ -46,6 +46,7 @@
     height: 500px;
     width: 800px;
     background-color: yellow;
-    margin-top: 20px;
-    padding-right: 50px;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 10px;
 }
