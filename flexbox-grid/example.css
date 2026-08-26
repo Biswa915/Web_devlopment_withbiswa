@@ -1,9 +1,9 @@
-*{
+ *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body{
+ /* body{
     background-color: black;
     font-size: 40px;
 }
@@ -15,9 +15,9 @@ body{
     grid-template-rows:1fr 2fr 2fr 1fr;
     gap: 10px;
     padding: 5px;
-    /* background-color: rgb(86, 190, 176); */
+    background-color: rgb(86, 190, 176); */ 
 
-}
+/* }
 .box{
     background-color: aqua;
 }
@@ -40,4 +40,12 @@ body{
     grid-column-start: 1;
     grid-column-end: 4;
     background-color: brown;
+} */ 
+
+.main{
+    height: 500px;
+    width: 800px;
+    background-color: yellow;
+    margin-top: 20px;
+    padding-right: 50px;
 }
