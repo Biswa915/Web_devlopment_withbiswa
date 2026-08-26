@@ -50,6 +50,8 @@
     padding: 10px;
     border-radius: 10px;
     border:10px  solid green;
+    box-sizing: border-box;
+    box-shadow: inset;
     
 }
 h1{
