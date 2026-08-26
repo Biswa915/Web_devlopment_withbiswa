@@ -59,5 +59,10 @@ h1{
     text-align: justify;
     text-align: center;
     margin-top: 2px;
+    padding-left:15px ;
     text-shadow: 4px -4px green ;
+}
+p{
+    text-align: justify;
+    background-color: aqua;
 }
