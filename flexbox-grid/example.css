@@ -41,26 +41,21 @@
     grid-column-end: 4;
     background-color: brown;
 } */ 
-
-.main{
-    height: 500px;
+    
+h1{
     width: 800px;
+    height: 500px;
     background-color: yellow;
-    margin: 20px;
+    margin: 10px;
     padding: 10px;
     border-radius: 10px;
-    border:10px  solid green;
-    box-sizing: border-box;
-    
-    
-}
-h1{
-    text-shadow: 5px;
-    text-align: justify;
-    text-align: center;
-    margin-top: 2px;
+    border-width:10px;
+    border-style: solid;
+    border-color: green;
+    /* text-align: center; */
+    margin-top: 10px;
     padding-left:15px ;
-    text-shadow: 4px -4px green ;
+    
 }
 p{
     text-align: justify;
