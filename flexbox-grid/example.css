@@ -47,12 +47,13 @@ h1{
     height: 500px;
     background-color: yellow;
     margin: 10px;
-    padding: 10px;
+    padding: 50px;
     border-radius: 10px;
     border-width:10px;
     border-style: solid;
     border-color: green;
-    /* text-align: center; */
+    text-align: center;
+    text-transform:lowercase;
     margin-top: 10px;
     padding-left:15px ;
     
@@ -60,4 +61,7 @@ h1{
 p{
     text-align: justify;
     background-color: aqua;
+    border: 10px solid;
+    padding: 10px;
+    margin: 5px;
 }
