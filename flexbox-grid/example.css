@@ -60,10 +60,13 @@ h1{
     
 }
 p{
+    height: 300px;
+    width: 1000px;
     text-align: justify;
     background-color: aqua;
     border: 10px solid;
     padding: 10px;
-    margin: 5px;
+    margin-right: 10px;
     gap: 7px;
+    padding-top:10px ;
 }
