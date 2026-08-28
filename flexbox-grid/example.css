@@ -48,7 +48,7 @@ h1{
     background-color: yellow;
     margin: 100px;
     padding:30px 25px 30px 25px;
-    border-radius: 10px;
+    border-radius: 70px;
     border-width:10px;
     border-style: solid;
     border-color: green;
@@ -57,8 +57,8 @@ h1{
     margin-top: 10px;
     padding-left:15px ;
     border-top: 9px solid black;
-    /* margin-top: 50px; */
-    margin-right: 100px ;
+    margin-top: 50px;
+    
     
 }
 p{
@@ -71,4 +71,8 @@ p{
     margin: 10px;
     gap: 7px;
     padding-top:10px ;
+}
+span{
+    color: blueviolet;
+    height: 10px;
 }
