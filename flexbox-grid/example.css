@@ -53,7 +53,6 @@ h1{
     border-style: solid;
     border-color: green;
     text-align: center;
-    text-transform:lowercase;
     margin-top: 10px;
     padding-left:15px ;
     border-top: 9px solid black;
@@ -61,7 +60,7 @@ h1{
     
     
 }
-p{
+/* p{
     height: 150px;
     width: 1000px;
     text-align: justify;
@@ -71,7 +70,7 @@ p{
     margin: 10px;
     gap: 7px;
     padding-top:10px ;
-}
+} */
 span{
     color: blueviolet;
     height: 10px;
