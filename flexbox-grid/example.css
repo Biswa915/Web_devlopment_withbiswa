@@ -75,6 +75,9 @@ h2{
     border: 10px solid skyblue;
     box-sizing:content-box;
     background-color: brown;
+    text-align: center;
+    box-shadow: 4px 2px skyblue;
+
 }
 /* p{
     height: 150px;
