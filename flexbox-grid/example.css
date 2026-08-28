@@ -70,6 +70,7 @@ h1{
 h2{
     height: 300px;
     width: 300px;
+    padding: 40px;
     background-color: brown;
 }
 /* p{
