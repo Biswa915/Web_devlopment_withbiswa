@@ -44,11 +44,12 @@
     
 h1{
     background-color: aqua;
-    height: 150px;
+    height:300px;
     width: 300px;
     padding: 40px;
     margin: 50px;
-    display: inline-block;
+    border: 10px solid orange;
+    /* display: inline-block; */
     /* width: 800px;
     height: 500px;
     background-color: yellow;
@@ -80,7 +81,8 @@ span{
     color: blueviolet;
     background-color: red;
     height: 200px;
-    height: 150px;
+    height: 200px;
+
     /* padding: 10px;
     margin: 20px; */
     font-size: 28px;
