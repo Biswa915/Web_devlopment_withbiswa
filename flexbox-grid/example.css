@@ -72,6 +72,8 @@ h2{
     width: 300px;
     padding: 40px;
     margin: 50px;
+    border: 10px solid skyblue;
+    box-sizing: border-box;
     background-color: brown;
 }
 /* p{
