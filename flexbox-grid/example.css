@@ -73,7 +73,7 @@ h2{
     padding: 40px;
     margin: 50px;
     border: 10px solid skyblue;
-    box-sizing: border-box;
+    box-sizing:content-box;
     background-color: brown;
 }
 /* p{
