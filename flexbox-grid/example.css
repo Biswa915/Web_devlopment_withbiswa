@@ -50,6 +50,9 @@ h1{
     margin: 50px;
     border: 10px solid orange;
     box-sizing: content-box;
+    text-align: center;
+    text-align:1px ;
+    box-shadow: 15px 10px 12px 10px green;
     /* display: inline-block; */
     /* width: 800px;
     height: 500px;
