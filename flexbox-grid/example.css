@@ -133,6 +133,8 @@ background-color: aqua;
     width: 150px;
     background-color:rgb(201, 21, 201) ;
     float: left;
+    text-align: center;
+    
 }
 .second_center{
     height: 600px;
@@ -142,7 +144,7 @@ background-color: aqua;
 }
 .therd_center{
     height: 600px;
-    width: 170px;
+    width: 180px;
     background-color:rgb(52, 202, 52);
     float: left;
 }
