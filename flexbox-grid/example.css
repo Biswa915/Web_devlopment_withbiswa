@@ -125,4 +125,6 @@ h2{
 }
 .second_box{
 height: 600px;
+width: auto;
+background-color: aqua;
 }
