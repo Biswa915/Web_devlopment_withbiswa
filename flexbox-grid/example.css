@@ -110,4 +110,13 @@ h2{
     
 /* }  */
 
-.main_box:
+.main_box{
+    height: auto;
+    width: 100px;
+
+}
+header{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
