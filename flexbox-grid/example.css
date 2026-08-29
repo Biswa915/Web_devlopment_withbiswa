@@ -134,7 +134,8 @@ background-color: aqua;
     background-color:rgb(201, 21, 201) ;
     float: left;
     text-align: center;
-    
+    font-size: 20px;
+    padding-top: 40%;
 }
 .second_center{
     height: 600px;
