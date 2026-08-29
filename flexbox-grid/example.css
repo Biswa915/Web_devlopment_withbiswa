@@ -130,6 +130,13 @@ background-color: aqua;
 }
 .first_center{
     height: 600px;
-    width: 100px;
-    background-color: ;
+    width: 150px;
+    background-color:purple ;
+    float: left;
+}
+.second_center{
+    height: 600px;
+    width: 440px;
+    background-color:red ;
+    float: left;
 }
