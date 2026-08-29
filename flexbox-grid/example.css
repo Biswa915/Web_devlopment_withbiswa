@@ -115,8 +115,11 @@ h2{
     width: 100px;
 
 }
-header{
-    height: 100px;
-    width: 100px;
+.header{
+    height: 80px;
+    width: auto;
     background-color: green;
+    text-align: center;
+    padding-top:10px ;
+    font-size: 20px;
 }
