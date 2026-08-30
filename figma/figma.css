@@ -59,12 +59,13 @@ h2{
 .image1{
     height: 150px;
     width: 160px;
-    background-color: beige;
+    background-color: gainsboro;
     margin: 10px;
     display: inline-block;
     margin-left: 50px;
     text-align: center;
     padding-top: 50px;
+    color: aliceblue;
 
 }
 button{
