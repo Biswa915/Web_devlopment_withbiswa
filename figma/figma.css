@@ -37,7 +37,8 @@ h1{
     height: 500px;
     width: 250px;
     background-color: aqua;
-    float:left;
+    float:right;
+    margin-right: ;
 }
 h2{
     text-align: center;
