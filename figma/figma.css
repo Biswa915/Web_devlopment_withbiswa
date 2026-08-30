@@ -37,8 +37,7 @@ h1{
     height: 500px;
     width: 250px;
     background-color: aqua;
-    float:right;
-    margin-right: ;
+    float:left;
 }
 h2{
     text-align: center;
@@ -53,15 +52,17 @@ h2{
  background-color: aqua;
  float:right;
  margin-right: 7px;
- padding: 100px;
+ 
+ /* padding: 100px; */
+ padding-top: 100px;
 }
 .image1{
     height: 100px;
-    width: 100px;
+    width: 150px;
     background-color: beige;
-    margin: 25px;
-    /* margin-top: 250px; */
+    margin: 10px;
     display: inline-block;
+    ma
 
 }
 button{
