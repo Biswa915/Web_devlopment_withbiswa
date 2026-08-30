@@ -36,7 +36,7 @@ h1{
 .Aside{
     height: 500px;
     width: 250px;
-    background-color: aqua;
+    background-color: rgb(58, 198, 198);
     float:left;
 }
 h2{
