@@ -13,9 +13,9 @@ body{
     grid-template-columns: repeat(8,1fr);
     grid-template-rows: repeat(8,1fr);
 }
-.box-white{
+.white_box{
     background-color: white;
 }
-.box-brown{
-    background-color: brown;
+.black_box{
+    background-color:black;
 }
