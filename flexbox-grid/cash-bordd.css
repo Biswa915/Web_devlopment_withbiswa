@@ -5,9 +5,9 @@
 }
 
 .container{
-    width: 1750px;
+    width: 900px;
     height: 800px; 
-   
+   background-color: gray;
 }
 .white_box{
     height: 80px;
