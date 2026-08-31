@@ -5,11 +5,10 @@
 }
 
 .container{
-    width: 300px;
-    height: 300px;
-    float: left;
-    /* grid-template-columns: repeat(8,1fr);
-    grid-template-rows: repeat(8,1fr); */
+    width: 1750px;
+    height: 800px;
+   background-color: black;
+   
 }
 .white_box{
     background-color: white;
