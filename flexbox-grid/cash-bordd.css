@@ -5,21 +5,21 @@
 }
 
 .container{
-    width: 900px;
+    width: 1500px;
     height: 800px; 
    background-color: gray;
-   margin: 0 auto;
+   /* margin: 0 auto; */
 }
 .white_box{
-    height: 90px;
-    width: 90px;
+    height: auto;
+    width: auto;
     background-color: white;
     border: 1px solid black;
     float: left;
 }
 .black_box{
-    height: 90px;
-    width: 90px;
+    height: auto;
+    width: auto;
     background-color:black;
     /* float: right;
     margin: 5px; */
