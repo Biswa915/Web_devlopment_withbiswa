@@ -5,23 +5,22 @@
 }
 
 .container{
-    width: 1500px;
+    width: 900px;
     height: 800px; 
    background-color: gray;
-   /* margin: 0 auto; */
+   margin: 0 auto;
 }
 .white_box{
-    height: auto;
-    width: auto;
+    height: 90px;
+    width: 90px;
     background-color: white;
     border: 1px solid black;
     float: left;
 }
 .black_box{
-    height: auto;
-    width: auto;
-    background-color:black;
-    /* float: right;
-    margin: 5px; */
-    float:left ;
+    height: 90px;
+    width: 90px;
+    background-color: black;
+    border: 1px solid black;
+    float: left;
 }
