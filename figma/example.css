@@ -111,8 +111,9 @@ h2{
 /* }  */
 
 .main_box{
-    height: 100px;
-    width: 100px;
+    height: auto;
+    width: 100%;
+    
     
 }
 .header{
