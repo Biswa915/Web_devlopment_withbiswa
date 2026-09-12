@@ -16,11 +16,13 @@ body ,html{
     height: 10%;
     width: 10%;
     background-color: tan;
+    border: 1px;
     float: left;
 }
 .black_box{
     height: 10%;
     width: 10%;
     background-color: green;
+    border: 3px;
     float: left;
 }
