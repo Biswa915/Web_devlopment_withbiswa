@@ -3,27 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
-body,html{
-    width: 100px;
-    height: 100px;
-}
-
 .container{
+    height: 100px;
     width: 100px;
-    height: 100px; 
-  
-}
-.white_box{
-    height: 40px;
-    width: 40px;
-    background-color: white;
-    /* border: 1px solid black; */
-    float: left;
-}
-.black_box{
-    height: 40px;
-    width: 40px;
-    background-color: black;
-    /* border: 1px solid black; */
-    float: left;
+    background-color: aqua;
 }
