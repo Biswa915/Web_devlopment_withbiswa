@@ -12,3 +12,8 @@ body ,html{
     width: 100%;
     background-color: aqua;
 }
+.white_box{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
