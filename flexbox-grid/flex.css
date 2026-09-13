@@ -6,4 +6,12 @@
     background-color: aqua;
     height: 100vh;       
 }
+.box_first{
+    height: 100px;
+    width: 100px;
+
+}
+.first{
+    color: red;
+}
 
