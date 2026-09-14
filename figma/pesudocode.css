@@ -1,6 +1,6 @@
 .main{
 
 }
-li:nth-child(2n){
+li:nth-of-type{
     color: red;
 }
