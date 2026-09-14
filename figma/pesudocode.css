@@ -1,0 +1,6 @@
+.main{
+
+}
+li:nth-child(2){
+    color: red;
+}
