@@ -1,6 +1,6 @@
 .main{
 
 }
-li:nth-of-type{
+li:last-of-type(1){
     color: red;
 }
