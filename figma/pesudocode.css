@@ -1,6 +1,13 @@
 .main{
-
+/* height: 100px;
+width: 100px; */
+display: flex;
+flex-direction: row;
+background-color: aqua;
 }
-li:last-of-type(5){
+li:last-of-type(){
     color: red;
+}
+p:only-child(1){
+    color: brown;
 }
