@@ -6,3 +6,6 @@ background-color: aqua;
 li:only-child(o){
     color: red;
 }
+p:only-child(o){
+    color: red;
+}
