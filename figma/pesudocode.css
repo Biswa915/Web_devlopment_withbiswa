@@ -3,6 +3,6 @@
 width: 100px; */
 background-color: aqua;
 }
-li:only-child(1){
+li:only-child(o){
     color: red;
 }
