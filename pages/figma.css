@@ -23,19 +23,25 @@
     align-content: center;
     justify-content: flex-end;
     margin: 7px;
+    padding-left: 90px;
 
 }
 
 .login {
     display: flex;
-    gap: 5px;
+    gap: 6px;
     
 }
 
 .join {
     display: flex;
+    gap: 5px;
 }
 
 .add {
     display: flex;
+    gap: 5px;
+}
+p{
+    color: #FFFFFF;
 }
