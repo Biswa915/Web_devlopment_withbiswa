@@ -9,21 +9,26 @@
 } */
 .top_bar {
     height: 42px;
-    width: 1920px;
+    width: 100%;
     background-color: #102451;
     gap: 2px;
     padding: 5px;
 
 }
 
-.icon {
+.top_bar .icon{
     display: flex;
     gap: 15px;
-    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-end;
+    margin: 7px;
+
 }
 
 .login {
     display: flex;
+    
 }
 
 .join {
