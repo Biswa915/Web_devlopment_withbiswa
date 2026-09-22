@@ -1,28 +1,35 @@
-*{
+* {
     padding: 0px;
     margin: 0px;
 }
+
 /* body{
     height: 100vh;
     width: 100vw;
 } */
-.top_bar{
-    height: 40px;
+.top_bar {
+    height: 42px;
     width: 1920px;
     background-color: #102451;
     gap: 2px;
-    
+    padding: 5px;
+
 }
-.icon{
-    display: flex; 
-gap: 5px;
+
+.icon {
+    display: flex;
+    gap: 15px;
+    align-items: center;
 }
-.login{
+
+.login {
     display: flex;
 }
-.join{
+
+.join {
     display: flex;
 }
-.add{
+
+.add {
     display: flex;
 }
