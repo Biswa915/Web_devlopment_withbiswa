@@ -14,15 +14,10 @@
     
 }
 .icon{
-    display: flex;
-    /* justify-content: end;
-    align-items: center;
-    gap: 3px;
-    padding: 2px;
-    margin: 2px;
-     */
+    display: flex; 
+gap: 5px;
 }
-/* .login{
+.login{
     display: flex;
 }
 .join{
@@ -30,4 +25,4 @@
 }
 .add{
     display: flex;
-} */
+}
