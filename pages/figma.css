@@ -11,11 +11,23 @@
     width: 1920px;
     background-color: #102451;
     gap: 2px;
+    
 }
 .icon{
     display: flex;
-    justify-content: end;
+    /* justify-content: end;
     align-items: center;
     gap: 3px;
-    
+    padding: 2px;
+    margin: 2px;
+     */
 }
+/* .login{
+    display: flex;
+}
+.join{
+    display: flex;
+}
+.add{
+    display: flex;
+} */
